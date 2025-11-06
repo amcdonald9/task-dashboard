@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+dist/
+.env
+.vscode/
+
+# Python (if backend uses Flask, Django, or FastAPI)
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
